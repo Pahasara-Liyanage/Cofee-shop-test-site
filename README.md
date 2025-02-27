@@ -11,3 +11,5 @@
     <li>video 4 - https://youtu.be/IFKzmReZ56s?si=Qie5cIc1vOo9jjuO</li>
     <li>video 5 - https://youtu.be/UvLqviXP9aY?si=PwiDddgArBF-M3_u</li>
 </ul>
+<br>
+<img src="https://github.com/Pahasara-Liyanage/Cofee-shop-test-site/blob/main/Screenshot%202025-02-27%20211254.png">
